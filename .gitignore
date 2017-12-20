@@ -1,2 +1,9 @@
 .sass-cache/
 *.css.map
+README.md
+sass/*.sass
+文件教學.txt
+config.rb
+links/*.html
+preview/*.png
+SpecExport.html
